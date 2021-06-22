@@ -2,7 +2,7 @@ urllib.request==3.9
 json==2.0.9
 datetime==3.9
 random==3.9
-string=3.9
+string==3.9
 time==3.9
-os=3.9
-sys=3.9
+os==3.9
+sys==3.9
